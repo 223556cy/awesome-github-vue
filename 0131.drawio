@@ -737,7 +737,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_pGnp9VuQZ900AUQpGg-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Summation" vertex="1">
-          <mxGeometry height="30" width="60" x="450" y="630" as="geometry" />
+          <mxGeometry height="30" width="60" x="420" y="619.76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
